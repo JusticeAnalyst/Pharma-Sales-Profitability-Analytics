@@ -73,7 +73,5 @@ https://github.com/JusticeAnalyst/Pharma-Sales-Profitability-Analytics/blob/main
 - Financial modeling within BI tools
 - KPI architecture design
 - Margin diagnostics
-
-Executive-level data storytelling
-
-Translating data into strategic recommendations
+- Executive-level data storytelling
+- Translating data into strategic recommendations
