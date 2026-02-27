@@ -64,12 +64,9 @@ Advanced DAX measures were used to ensure dynamic benchmarking and contextual co
 - Interactive filtering across geography, pharmacy type, and product
 
 📷 Dashboard Preview
-
-(Insert single dashboard image here)
-
-![Executive Dashboard](dashboard-image.png)
-Geographic and Pharmacy Performance Dashboard (
-Product and Brand Performance dashboard(
+https://github.com/JusticeAnalyst/Pharma-Sales-Profitability-Analytics/blob/main/Screenshot%202026-02-17%20134536.png
+https://github.com/JusticeAnalyst/Pharma-Sales-Profitability-Analytics/blob/main/Screenshot%202026-02-17%20134701.png
+https://github.com/JusticeAnalyst/Pharma-Sales-Profitability-Analytics/blob/main/Screenshot%202026-02-17%20134749.png
 
 # Capabilities Demonstrated
 - Commercial performance analysis
